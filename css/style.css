@@ -43,6 +43,7 @@ body {
 }
 
 .contenedor {
+    
     max-width: 120rem;
     margin: 0 auto;
 }
@@ -53,10 +54,11 @@ body {
         display: flex;
         align-items: center;
         justify-content: center;
+        
+    
     }
     .card__grid{
-        min-width: 90%;
-       
+        min-width: 85%;    
     }
 }
 
